@@ -1,0 +1,122 @@
+{
+    "title": "X.app",
+    "subtitle": "All-in-One Extension App",
+    "publisherName": "X.app",
+    "feedIdentifier": "app.extension",
+    "contactURL": "https://extension.app/playgrounds",
+    "formatVersion": "1.2",
+    "documents": [
+        {
+            "title": "{X} App",
+            "overviewSubtitle": "Playground App by X.app",
+            "detailSubtitle": "All-in-One Extension Playground App",
+            "description": "{X} App is an All-in-One Extension Playground App by X.app.",
+            "difficultyLevel" : "advanced",
+            "attributes" : [
+                "appBuilding",
+                "appLike",
+                "projectBased",
+                "codingBasics",
+                "designOriented",
+                "dataStructuresAndAlgorithms"
+            ],
+            "contentIdentifier": "app.extension.playground.app",
+            "contentVersion": "2023.11.1",
+            "supportedDevices" : [
+                "iPad",
+                "Mac"
+            ],
+            "url": "app/app.swiftpm.zip",
+            "sha512" : "20d0a2e51ac4c584e0c744c02e657d5a538f8cf3a0daa146627aa2eaccb54e1f526b4af0b3abb087e77e6c69c930ed05f0c8cc1966b4656b4bc020c1b11deb5f",
+            "publishedDate": "2023-11-01T00:00:00+00:00",
+            "lastUpdatedDate": "2023-11-17T01:51:00+00:00",
+            "thumbnailURL": "app/thumbnail.png",
+            "bannerImageURL": "app/banner.png",
+            "previewImageURLs": [
+                "app/preview-1.png",
+                "app/preview-2.png",
+                "app/preview-3.png",
+                "app/preview-4.png"
+            ],
+            "additionalInformation": [
+                {
+                    "name": "Publisher",
+                    "value": "X.app"
+                },
+                {
+                    "name": "Version",
+                    "value": "2023.11.1"
+                },
+                {
+                    "name": "Released",
+                    "value": "2023-11-01T00:00:00+00:00",
+                    "type" : "date"
+                },
+                {
+                    "name": "Edition",
+                    "value": "Swift 5.9 Edition"
+                },
+                {
+                    "name": "Languages",
+                    "value": "English, Russian"
+                }
+            ]
+        },
+        {
+            "title": "{X} Book",
+            "overviewSubtitle": "Playground Book by X.app",
+            "detailSubtitle": "All-in-One Extension Playground Book",
+            "description": "{X} Book is an All-in-One Extension Playground Book by X.app.",
+            "difficultyLevel" : "advanced",
+            "attributes" : [
+                "appBuilding",
+                "appLike",
+                "projectBased",
+                "codingBasics",
+                "designOriented",
+                "dataStructuresAndAlgorithms"
+            ],
+            "contentIdentifier": "app.extension.playground.book",
+            "contentVersion": "2023.11.1",
+            "supportedDevices" : [
+                "iPad",
+                "Mac"
+            ],
+            "url": "book/book.playgroundbook.zip",
+            "sha512" : "33de23d4efaf20d5b62d5ebbd89b28dcf63886204683148348e7ea9a14e47e492976566956a33d7ce5e68bc1cc3ecb86e549d4ad0d66b1972cf8053aeb39bf3e",
+            "publishedDate": "2023-11-01T00:00:00+00:00",
+            "lastUpdatedDate": "2023-11-17T01:51:00+00:00",
+            "thumbnailURL": "book/thumbnail.png",
+            "bannerImageURL": "book/banner.png",
+            "previewImageURLs": [
+                "book/preview-1.png",
+                "book/preview-2.png",
+                "book/preview-3.png",
+                "book/preview-4.png"
+            ],
+            "additionalInformation": [
+                {
+                    "name": "Publisher",
+                    "value": "X.app"
+                },
+                {
+                    "name": "Version",
+                    "value": "2023.11.1"
+                },
+                {
+                    "name": "Released",
+                    "value": "2023-11-01T00:00:00+00:00",
+                    "type" : "date"
+                },
+                {
+                    "name": "Edition",
+                    "value": "Swift 5.9 Edition"
+                },
+                {
+                    "name": "Languages",
+                    "value": "English, Russian"
+                }
+            ]
+        }
+    ]
+}
