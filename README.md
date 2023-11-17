@@ -6,4 +6,4 @@
 
 
 ### Swift Playgrounds – Subscription Link:
-[https://extension.app/playgrounds.json](https://extension.app/playgrounds.json)
+[https://extension.app/playgrounds.json](https://developer.apple.com/ul/sp0?url=https://extension.app/playgrounds.json)
